@@ -2,28 +2,28 @@
 # Sergey Shevchenko
 ## Junior Frontend Developer
 
-### Contact information:
+### Contact information
 __Phone:__+375-44-000-000-0
 __E-mail:__ wunder49@yandex.by
 __Telegram:__ @LeviyMatvey
 [linkedIn](www.linkedin.com/in/сергей-шевченко-04a336228)
 
-### About Myself:
+### About Myself
 My name is Sergey, I’m 26 years old. I was born and currently live in Gomel. I’m an aspiring Junior Frontend Developer.
 
-### Skills:
+### Skills
 * HTML5, CSS3
 * JavaScript basic
 * Git, GitHub
 * VS Code, CodeBlocks
 * OS Linux
 
-### Course:
+### Course
 * WEBSITE DEVELOPMENT WITH HTML, CSS & JAVASCRIPT 2021
 * WEB APPLICATION DEVELOPMENT WITH JAVASCRIPT 2021-2022
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-### Example code:
+### Example code
 ```javascript
 function isograms(str){
     let lenStr =  new Set(str.toLowerCase()).size;
@@ -34,7 +34,7 @@ function isograms(str){
 }
 ```
 
-### Languages:
+### Languages
 * Russian - Native
 * Belarusian - Native
 * German - A1
