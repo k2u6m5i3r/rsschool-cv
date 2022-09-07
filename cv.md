@@ -8,10 +8,10 @@ __E-mail:__ wunder49@yandex.by
 __Telegram:__ @LeviyMatvey
 [linkedIn](www.linkedin.com/in/сергей-шевченко-04a336228)
 
-### About Myself
+### About Myself:
 My name is Sergey, I’m 26 years old. I was born and currently live in Gomel. I’m an aspiring Junior Frontend Developer.
 
-### Skills
+### Skills:
 * HTML5, CSS3
 * JavaScript basic
 * Git, GitHub
